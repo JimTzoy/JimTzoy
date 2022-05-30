@@ -11,40 +11,107 @@
   <body>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-2 a ca">
-          <i class="icon-home"></i>
-          <p>HOME</p>
+        <div class="col-sm-4 col-md-2 ca tablinks" onclick="openCity(event, 'home')">
+          <div class="a">
+            <i class="icon-home"></i>
+            <p>HOME</p>
+          </div>
         </div>
-        <div class="col-md-2 a cb">
-          <i class="icon-file-text "></i>
-          <p>RESUME</p>
+        <div class="col-sm-4 col-md-2 cb tablinks" onclick="openCity(event, 'resume')">
+          <div class="a">
+            <i class="icon-file-text "></i>
+            <p>RESUME</p>
+          </div>
         </div>
-        <div class="col-md-2 a cc">
-          <i class="icon-folder"></i>
-          <p>PORTAFOLIO</p>
+        <div class="col-sm-4 col-md-2 cc tablinks" onclick="openCity(event, 'portafolio')">
+          <div class="a">
+            <i class="icon-folder"></i>
+            <p>PORTAFOLIO</p>
+          </div>
         </div>
-        <div class="col-md-2 a cd">
-          <i class="icon-profile"></i>
-          <p>CONTACTO</p>
+        <div class="col-sm-4 col-md-2 cd tablinks" onclick="openCity(event, 'contacto')">
+          <div class="a">
+            <i class="icon-profile"></i>
+            <p>CONTACTO</p>
+          </div>
         </div>
-        <div class="col-md-2 a ce">
-          <i class="icon-bubbles4"></i>
-          <p>FEEDBACK</p>
+        <div class="col-sm-4 col-md-2 ce tablinks" onclick="openCity(event, 'feedback')">
+          <div class="a">
+            <i class="icon-bubbles4"></i>
+            <p>FEEDBACK</p>
+          </div>
         </div>
-        <div class="col-md-2 a cf">
-          <i class="icon-blogger"></i>
-          <p>BLOG</p>
+        <div class="col-sm-4 col-md-2 cf tablinks" onclick="openCity(event, 'blog')">
+          <div class="a">
+            <i class="icon-blogger"></i>
+            <p>BLOG</p>
+          </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-6">
-
+      <div class="container-fluid">
+        <div id="home" class="contenido">
+          <div class="row">
+            <div class="col-md-6">
+              <p>HOME</p>
+            </div>
+            <div class="col-md-6">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, voluptas error vel voluptatem impedit excepturi architecto consectetur, et aliquam minus delectus quam rerum amet soluta odio quis placeat praesentium. Perferendis.</p>
+            </div>
+          </div>
         </div>
-        <div class="col-md-6">
-
+        <div id="resume" class="contenido">
+          <div class="row">
+            <div class="col-md-6">
+              <p>RESUME</p>
+            </div>
+            <div class="col-md-6">
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat, qui beatae, obcaecati voluptas, veniam illum dolores est veritatis cupiditate voluptates architecto! Commodi ex asperiores ea eligendi amet enim quos natus!</p>
+            </div>
+          </div>
         </div>
-      </div>
+        <div id="portafolio" class="contenido">
+          <div class="row">
+            <div class="col-md-6">
+              <p>PORTAFOLIO</p>
+            </div>
+            <div class="col-md-6">
+  
+            </div>
+          </div>
+        </div>
+        <div id="contacto" class="contenido">
+          <div class="row">
+            <div class="col-md-6">
+              <p>CONTACTO</p>
+            </div>
+            <div class="col-md-6">
+              <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, laboriosam dolorum reprehenderit perspiciatis ducimus nisi ab quisquam? Ducimus, reprehenderit eius et, ab facilis voluptatem obcaecati, provident asperiores laudantium qui hic.</P>
+            </div>
+          </div>
+        </div>
+        <div id="feedback" class="contenido">
+          <div class="row">
+            <div class="col-md-6">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis tempora itaque libero repudiandae saepe magnam ut, quaerat dicta alias error laborum magni illum esse veniam. Quis quas repellendus nemo nulla.</p>
+            </div>
+            <div class="col-md-6">
+              <p>FEEDBACK</p>
+            </div>
+          </div>
+        </div>
+        <div id="blog" class="contenido">
+          <div class="row">
+            <div class="col-md-6">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis tempora itaque libero repudiandae saepe magnam ut, quaerat dicta alias error laborum magni illum esse veniam. Quis quas repellendus nemo nulla.</p>
+            </div>
+            <div class="col-md-6">
+              <p>BLOG</p>
+            </div>
+          </div>
+        </div>
+      </div>  
     </div>
+    <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
