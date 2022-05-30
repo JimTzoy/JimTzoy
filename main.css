@@ -3,24 +3,79 @@ body{
 }
 .ca{
     background: #212026;
+    text-align: center;
+    color: #ffff;
+}
+.ca:hover{
+    color: #212026;
+    background: rgb(180, 180, 180);
+}
+.ca.active{
+    background: rgb(180, 180, 180);
 }
 .cb{
     background: #49B1F2;
+    text-align: center;
+    color: #ffff;
+}
+.cb:hover{
+    color: #49B1F2;
+    background: rgb(180, 180, 180);
+}
+.cb.active{
+    background: rgb(180, 180, 180);
 }
 .cc{
     background: #04B2D9;
+    text-align: center;
+    color: #ffff;
+}
+.cc:hover{
+    color: #04B2D9;
+    background: rgb(180, 180, 180);
+}
+.cc.active{
+    background: rgb(180, 180, 180);
 }
 .cd{
     background:#0397DA;
+    text-align: center;
+    color: #ffff;
+}
+.cd:hover{
+    color: #0397DA;
+    background: rgb(180, 180, 180);
+}
+.cd.active{
+    background: rgb(180, 180, 180);
 }
 .ce{
     background: #012535;
+    text-align: center;
+    color: #ffff;
+}
+.ce:hover{
+    color: #012535;
+    background: rgb(180, 180, 180);
+}
+.ce:active{
+    background: rgb(180, 180, 180);
 }
 .cf{
     background: #025981;
-}
-.a{
     text-align: center;
     color: #ffff;
+}
+.cf:hover{
+    color: #025981;
+    background: rgb(180, 180, 180);
+}
+.cf.active{
+    background: rgb(180, 180, 180);
+}
+.a{
     margin-top: 10px;
+}
+.contenido{
+    display: none;
 }
