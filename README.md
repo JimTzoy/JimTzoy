@@ -1,7 +1,8 @@
 # !HOLA!
 Mi nombre es 
 Héctor Samuel Jiménez Tzyontle
+# Formación
 Ingeniero en sistemas computacionales
-## SKILL
+## Skills
  HTML
  CSS
