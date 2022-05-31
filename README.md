@@ -3,7 +3,7 @@
 # Formación
 - Instituto Tecnologico Superior de Zongolica 
 - Ingeniero en sistemas computacionales
-(2015 - 2020)
+- (2015 - 2020)
 ## Skills
  HTML
  CSS
