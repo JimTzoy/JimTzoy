@@ -5,5 +5,5 @@
 - Ingeniero en sistemas computacionales
 - (2015 - 2020)
 ## Skills
- HTML
+![me](https://raw.githubusercontent.com/JimTzoy/JimTzoy/main/html-5.png)
  CSS
