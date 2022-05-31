@@ -1,7 +1,7 @@
 # !HOLA!
-## Mi nombre es 
-# Héctor Samuel Jiménez Tzyontle
-# Ingeniero en sistemas computacionales
+Mi nombre es 
+Héctor Samuel Jiménez Tzyontle
+Ingeniero en sistemas computacionales
 ## SKILL
-# HTML
-# CSS
+ HTML
+ CSS
