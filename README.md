@@ -6,4 +6,4 @@
 - (2015 - 2020)
 ## Skills
 ![me](https://raw.githubusercontent.com/JimTzoy/JimTzoy/main/html-5.png)
- CSS
+## Frameworks
