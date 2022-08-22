@@ -16,6 +16,6 @@
 ![me](https://raw.githubusercontent.com/JimTzoy/JimTzoy/main/bootstrap_plain_wordmark_logo_icon_146620.png)
 ![me](https://raw.githubusercontent.com/JimTzoy/JimTzoy/main/zend_plain_wordmark_logo_icon_146281.png)
 ## Contactame
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorsamu@outloo.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorsamu@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-samuel-jim%C3%A9nez-tzoyontle-5598991b1/)
 
